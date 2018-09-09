@@ -7,6 +7,7 @@ import java.util.Map;
 public class Codechef {
 
 	public static void main(String[] args) throws java.lang.Exception {
+		System.out.println("Code Started...................");
 		
 		Map<String, CityNames> cityMap = new HashMap<>();
 		String array[] = { "Chennai Velachery", "Chennai Adyar", "Chennai Vadapalani", "Chennai Avadi",
